@@ -9,12 +9,18 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": ["three.js", "cannon-es", "vite", "3d", "bowling-game"],
+  "keywords": [
+    "three.js",
+    "cannon-es",
+    "vite",
+    "3d",
+    "bowling-game"
+  ],
   "author": "Kastriot Tahiri",
   "license": "ISC",
   "dependencies": {
     "cannon-es": "^0.20.0",
-    "three": "^0.168.0"
+    "three": "^0.172.0"
   },
   "devDependencies": {
     "vite": "^5.4.8"
